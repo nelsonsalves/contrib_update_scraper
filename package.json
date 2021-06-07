@@ -1,0 +1,15 @@
+{
+  "name": "contrib_scraper",
+  "version": "1.0.0",
+  "description": "Scrap contrib module pages to find useful information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Alves",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9"
+  }
+}
